@@ -1,0 +1,4 @@
+[submodule "brahim94/logistic"]
+	path = brahim94/logistic
+	url = git@github.com:brahim94/logistic.git
+	branch = master
